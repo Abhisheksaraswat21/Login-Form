@@ -31,9 +31,7 @@ function App() {
     console.log("logout");
 
     setUser({ name: "", email: "" });
-    //ab email empty hogya hai...to usestate me nayi value dalte hi wo poora firse execute hota hai
-    //is baar email empty hogya hai...ab eturn me aao to ternary operator lga hua hai jisme likha hai ki
-    //agr "" hua to login form chalega firse
+   
   };
 
   return (
