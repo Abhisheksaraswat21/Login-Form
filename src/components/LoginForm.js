@@ -18,9 +18,7 @@ function LoginForm({ Login, error }) {
         <h2>Login</h2>
 
         {error != "" ? <div className="error">{error}</div> : ""}
-        {/*error ko destruct kia haii to use krliya directly....yha pe error state paas ki thi
-        ..logout dabte hi seterror me value gai...to mtlb poora starting se run krega , aur tbhi
-        yha ki condition true hogai*/}
+       
 
         <div className="form-group">
           <label htmlFor="name">Name:</label>
