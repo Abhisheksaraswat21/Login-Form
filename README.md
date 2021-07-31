@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+
+# Here are some previews of the app.
+
+<img src = "login-form1.png"></img> 
+<img src = "login-form2.png"></img> 
+<img src = "login-form3.png"></img> 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
